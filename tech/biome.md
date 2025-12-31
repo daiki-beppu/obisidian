@@ -1,9 +1,15 @@
 ---
-date: 2025-04-12 21:03
 title: biome
-number: 01
-labels: [biome]
-topics: [js/]
+created: 2025-04-12
+updated: 2025-04-12
+topic: biome
+subtopics: []
+tags: ['biome']
+status: completed
+difficulty: beginner
+prev: null
+next: null
+related: []
 ---
 
 # VSCode で Biome 使って保存時にクラス名を自動で並び替え変える方法

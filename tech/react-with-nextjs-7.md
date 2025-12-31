@@ -1,9 +1,17 @@
 ---
-date: 2025-01-10 20:28
 title: react-with-nextjs-7
-number: 01
-labels: [react]
-topics: [js/]
+created: 2025-01-10
+updated: 2025-01-10
+series: React & Next.js Learning Path
+sequence: 8
+topic: react
+subtopics: []
+tags: ['react', 'nextjs', 'beginner']
+status: completed
+difficulty: beginner
+prev: null
+next: null
+related: []
 ---
 
 ### 内容

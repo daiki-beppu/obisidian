@@ -1,9 +1,17 @@
 ---
-date: 2025-01-03
-time: 8:34:50
 title: eslint-flat-config-2
-tags: []
-categories: []
+created: 2025-01-03
+updated: 2025-01-03
+series: ESLint Configuration
+sequence: 2
+topic: 
+subtopics: []
+tags: ['devtools', 'eslint']
+status: completed
+difficulty: beginner
+prev: null
+next: null
+related: []
 ---
 
 # eslint-flat-config-2

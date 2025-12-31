@@ -1,9 +1,15 @@
 ---
-date: 2025-01-21 22:37
 title: 01-react-with-nextjs-17
-number: 01
-labels: [01]
-topics: [js/]
+created: 2025-01-21
+updated: 2025-01-21
+topic: 01
+subtopics: []
+tags: ['01']
+status: completed
+difficulty: beginner
+prev: null
+next: null
+related: []
 ---
 
 ## 💡 学んだことの要約

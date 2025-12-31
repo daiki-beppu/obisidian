@@ -1,9 +1,15 @@
 ---
-date: 2025-01-14 22:21
 title: news-share
-number: 01
-labels: [news]
-topics: [js/]
+created: 2025-01-14
+updated: 2025-01-14
+topic: news
+subtopics: []
+tags: ['news']
+status: completed
+difficulty: beginner
+prev: null
+next: null
+related: []
 ---
 
 ## 💡 学んだことの要約

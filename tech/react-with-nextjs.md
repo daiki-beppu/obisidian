@@ -1,10 +1,17 @@
 ---
-date: 2025-01-04
-time: 19:28:17
 title: react
-number: 02
-labels: [react]
-topics: [js/devtools]
+created: 2025-01-04
+updated: 2025-01-04
+series: React & Next.js Learning Path
+sequence: 1
+topic: react
+subtopics: []
+tags: ['react', 'nextjs', 'beginner']
+status: completed
+difficulty: beginner
+prev: null
+next: null
+related: []
 ---
 
 ## 💡 学んだことの要約

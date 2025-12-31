@@ -1,9 +1,15 @@
 ---
-date: 2025-01-26 22:39
 title: 01-lessons-from-discussion
-number: 01
-labels: [discussion]
-topics: [talk/]
+created: 2025-01-26
+updated: 2025-01-26
+topic: discussion
+subtopics: []
+tags: ['discussion']
+status: completed
+difficulty: beginner
+prev: null
+next: null
+related: []
 ---
 
 ## 💡 学んだことの要約

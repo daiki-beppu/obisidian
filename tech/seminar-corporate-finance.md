@@ -1,9 +1,15 @@
 ---
-date: 2025-02-13 20:39
 title: seminar-corporate-finance
-number: 01
-labels: [seminar]
-topics: [js/]
+created: 2025-02-13
+updated: 2025-02-13
+topic: seminar
+subtopics: []
+tags: ['seminar']
+status: completed
+difficulty: beginner
+prev: null
+next: null
+related: []
 ---
 
 ## 💡 学んだことの要約

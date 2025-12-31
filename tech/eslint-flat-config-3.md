@@ -1,8 +1,17 @@
 ---
-date: 2025-01-04
 title: eslint-flat-config-3
-tags: ['eslint']
-categories: ['js/devtools']
+created: 2025-01-04
+updated: 2025-01-04
+series: ESLint Configuration
+sequence: 3
+topic: 'eslint'
+subtopics: []
+tags: ["'eslint'", 'devtools', 'eslint']
+status: completed
+difficulty: beginner
+prev: null
+next: null
+related: []
 ---
 
 # eslint-flat-config-3

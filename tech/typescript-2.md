@@ -1,9 +1,17 @@
 ---
-date: 2025-01-23 21:19
 title: typescript-2
-number: 01
-labels: [typescript]
-topics: [ts/]
+created: 2025-01-23
+updated: 2025-01-23
+series: TypeScript Learning Path
+sequence: 2
+topic: typescript
+subtopics: []
+tags: ['beginner', 'typescript']
+status: completed
+difficulty: beginner
+prev: null
+next: null
+related: []
 ---
 
 ## 💡 学んだことの要約

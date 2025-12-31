@@ -1,9 +1,15 @@
 ---
-date: 2025-02-17 20:25
 title: devin-utilizing
-number: 01
-labels: [devin]
-topics: [js/]
+created: 2025-02-17
+updated: 2025-02-17
+topic: devin
+subtopics: []
+tags: ['devin']
+status: completed
+difficulty: beginner
+prev: null
+next: null
+related: []
 ---
 
 登壇者:

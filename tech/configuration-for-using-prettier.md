@@ -1,9 +1,15 @@
 ---
-date: 2025-01-01
-time: 17:46:13
 title: configuration-for-using-prettier
-tags: [prettier]
-categories: [js/devtools]
+created: 2025-01-01
+updated: 2025-01-01
+topic: prettier
+subtopics: []
+tags: ['prettier']
+status: completed
+difficulty: beginner
+prev: null
+next: null
+related: []
 ---
 
 # configuration-for-using-prettier

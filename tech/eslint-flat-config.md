@@ -1,8 +1,15 @@
 ---
-date: 2025-01-02
 title: eslint-flat-config
-tags: [eslint]
-categories: []
+created: 2025-01-02
+updated: 2025-01-02
+topic: eslint
+subtopics: []
+tags: ['eslint']
+status: completed
+difficulty: beginner
+prev: null
+next: null
+related: []
 ---
 
 # `eslint`-flat-config

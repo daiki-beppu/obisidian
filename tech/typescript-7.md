@@ -1,9 +1,17 @@
 ---
-date: 2025-04-27 22:45
 title: typescript-6
-number: 01
-labels: [typescript]
-topics: [js/]
+created: 2025-04-27
+updated: 2025-04-27
+series: TypeScript Learning Path
+sequence: 7
+topic: typescript
+subtopics: []
+tags: ['beginner', 'typescript']
+status: completed
+difficulty: beginner
+prev: null
+next: null
+related: []
 ---
 
 # TypeScript 入門 #7
