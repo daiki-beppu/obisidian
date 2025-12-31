@@ -681,6 +681,17 @@ tailwind は一旦無効で良かったなと反省
 
 ## 📌 関連する過去の学び
 
+## 🔗 関連トピック
+
+**TypeScript との組み合わせ**:
+- [[typescript-01-setup-basics]] - TypeScript環境構築
+- [[typescript-05-array-tuple-any]] - Reactで使う型の基礎
+- [[typescript-08-alias-interface]] - Props型定義に使うInterface
+
+**開発環境の整備**:
+- [[eslint-01-flat-config-setup]] - ESLintでコード品質向上
+- [[devtools-prettier-setup]] - Prettierで自動フォーマット
+
 ---
 
 ## 🔗 このシリーズの学習パス

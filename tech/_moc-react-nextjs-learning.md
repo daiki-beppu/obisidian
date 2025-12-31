@@ -23,63 +23,67 @@ tags: [moc, react, nextjs, learning-path]
 ## 📚 学習フロー（推奨順序）
 
 ### Phase 1: 基礎（1-3）
-1. [[react-with-nextjs]] - コンポーネント・Props・Children
-2. [[react-with-nextjs-2]] - ルーティング・Link
-3. [[react-with-nextjs-3]] - CSS Modules・スタイリング
+1. [[react-nextjs-01-components-basics]] - コンポーネント・Props・Children
+2. [[react-nextjs-02-link-routing]] - ルーティング・Link
+3. [[react-nextjs-03-css-modules]] - CSS Modules・スタイリング
 
 ### Phase 2: Hooks & State（4-6）
-4. [[react-with-nextjs-4]] - useEffect・useState
-5. [[react-with-nextjs-5]] - 依存配列・クリーンアップ
-6. [[react-with-nextjs-6]] - イミュータビリティ・配列操作
+4. [[react-nextjs-04-lifecycle-state]] - useEffect・useState
+5. [[react-nextjs-05-hooks-dependencies]] - 依存配列・クリーンアップ
+6. [[react-nextjs-06-immutability]] - イミュータビリティ・配列操作
 
 ### Phase 3: 応用パターン（7-9）
-7. [[react-with-nextjs-7]] - カスタムフックス
-8. [[react-with-nextjs-8]] - Stateリフトアップ
-9. [[react-with-nextjs-9]] - useMemo・useRouter
+7. [[react-nextjs-07-custom-hooks]] - カスタムフックス
+8. [[react-nextjs-08-state-lifting]] - Stateリフトアップ
+9. [[react-nextjs-09-usememo-router]] - useMemo・useRouter
 
 ### Phase 4: 非同期 & API（10-13）
-10. [[react-with-nextjs-10]] - API基礎
-11. [[react-with-nextjs-11]] - エラーハンドリング
-12. [[react-with-nextjs-12]] - useReducer
-13. [[react-with-nextjs-13]] - SWR・データフェッチング
+10. [[react-nextjs-10-api-fetching]] - API基礎
+11. [[react-nextjs-11-error-loading]] - エラーハンドリング
+12. [[react-nextjs-12-usereducer]] - useReducer
+13. [[react-nextjs-13-swr]] - SWR・データフェッチング
 
 ### Phase 5: 発展（14-17）
-14. [[react-with-nextjs-14]]
-15. [[react-with-nextjs-15]]
-16. [[react-with-nextjs-16]]
-17. [[01-react-with-nextjs-17]]
+14. [[react-nextjs-14-file-routing]] - ファイルシステムルーティング
+15. [[react-nextjs-15-dynamic-routing]] - 動的ルーティング
+16. [[react-nextjs-16-swr-chaining]] - SWR連続fetch
+17. [[react-nextjs-17-fetcher-module]] - fetcherモジュール化
 
 ---
 
 ## 🏷️ トピック別インデックス
 
 ### コンポーネント
-- [[react-with-nextjs]] - 基礎
-- [[react-with-nextjs-2]] - Link
-- [[react-with-nextjs-3]] - スタイリング
+- [[react-nextjs-01-components-basics]] - 基礎
+- [[react-nextjs-02-link-routing]] - Link
+- [[react-nextjs-03-css-modules]] - スタイリング
 
 ### Hooks
-- [[react-with-nextjs-4]] - useState・useEffect
-- [[react-with-nextjs-5]] - 依存配列
-- [[react-with-nextjs-7]] - カスタムフックス
-- [[react-with-nextjs-9]] - useMemo
-- [[react-with-nextjs-12]] - useReducer
+- [[react-nextjs-04-lifecycle-state]] - useState・useEffect
+- [[react-nextjs-05-hooks-dependencies]] - 依存配列
+- [[react-nextjs-07-custom-hooks]] - カスタムフックス
+- [[react-nextjs-09-usememo-router]] - useMemo
+- [[react-nextjs-12-usereducer]] - useReducer
 
 ### State管理
-- [[react-with-nextjs-4]] - State基礎
-- [[react-with-nextjs-6]] - イミュータブル更新
-- [[react-with-nextjs-8]] - リフトアップ
-- [[react-with-nextjs-12]] - 複雑なState
+- [[react-nextjs-04-lifecycle-state]] - State基礎
+- [[react-nextjs-06-immutability]] - イミュータブル更新
+- [[react-nextjs-08-state-lifting]] - リフトアップ
+- [[react-nextjs-12-usereducer]] - 複雑なState
 
 ### 非同期・API
-- [[react-with-nextjs-10]] - fetch基礎
-- [[react-with-nextjs-11]] - エラー・ローディング
-- [[react-with-nextjs-13]] - SWR
+- [[react-nextjs-10-api-fetching]] - fetch基礎
+- [[react-nextjs-11-error-loading]] - エラー・ローディング
+- [[react-nextjs-13-swr]] - SWR
+- [[react-nextjs-16-swr-chaining]] - SWR連続fetch
+- [[react-nextjs-17-fetcher-module]] - fetcherモジュール化
 
 ### Pages Router
-- [[react-with-nextjs-2]] - ルーティング
-- [[react-with-nextjs-3]] - _app.js
-- [[react-with-nextjs-9]] - useRouter
+- [[react-nextjs-02-link-routing]] - ルーティング
+- [[react-nextjs-03-css-modules]] - _app.js
+- [[react-nextjs-09-usememo-router]] - useRouter
+- [[react-nextjs-14-file-routing]] - ファイルシステムルーティング
+- [[react-nextjs-15-dynamic-routing]] - 動的ルーティング
 
 ---
 
@@ -87,14 +91,14 @@ tags: [moc, react, nextjs, learning-path]
 
 ### TypeScript との組み合わせ
 - [[_moc-typescript-learning]] - TypeScript学習パス
-- [[typescript-1]] - 環境構築
-- [[typescript-5]] - Reactで使う型
-- [[typescript-8]] - Props型定義
+- [[typescript-01-setup-basics]] - 環境構築
+- [[typescript-05-array-tuple-any]] - Reactで使う型
+- [[typescript-08-alias-interface]] - Props型定義
 
 ### 開発環境
 - [[_moc-devtools]] - 開発ツール全般
-- [[eslint-flat-config]] - コード品質
-- [[configuration-for-using-prettier]] - フォーマット
+- [[eslint-01-flat-config-setup]] - コード品質
+- [[devtools-prettier-setup]] - フォーマット
 
 ---
 

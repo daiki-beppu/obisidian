@@ -347,6 +347,16 @@ yarn dlx @yarnpkg/sdks vscode
 
 ## 📌 関連する過去の学び
 
+## 🔗 関連トピック
+
+**プロジェクトで使用**:
+- [[react-nextjs-01-components-basics]] - React/Next.jsプロジェクトで使う
+- [[typescript-01-setup-basics]] - TypeScriptプロジェクトで使う
+
+**関連ツール**:
+- [[devtools-prettier-setup]] - Prettierと連携
+- [[devtools-biome-tailwind-sort]] - Biome（代替ツール）
+
 ---
 
 ## 🔗 このシリーズの学習パス

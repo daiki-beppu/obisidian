@@ -81,6 +81,16 @@ React, Next.js が一段落して
 
 ## 📌 関連する過去の学び
 
+## 🔗 関連トピック
+
+**React での活用**:
+- [[react-nextjs-01-components-basics]] - ReactでTypeScriptを使う
+- [[react-nextjs-04-lifecycle-state]] - Hooksの型付け
+
+**開発環境の整備**:
+- [[eslint-01-flat-config-setup]] - TypeScript用ESLint設定
+- [[devtools-prettier-setup]] - TypeScriptのフォーマット
+
 ---
 
 ## 🔗 このシリーズの学習パス
