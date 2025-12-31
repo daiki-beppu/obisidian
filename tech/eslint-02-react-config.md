@@ -280,3 +280,10 @@ export default [
 ## 📌 関連する過去の学び
 
 ---
+
+## 🔗 このシリーズの学習パス
+
+← 前: [[eslint-01-flat-config-setup]]
+→ 次: [[eslint-03-plugins-prettier]]
+
+**シリーズ全体**: [[_moc-devtools]]

@@ -137,3 +137,10 @@ export default function Main(props) {
 ## 📌 関連する過去の学び
 
 ---
+
+## 🔗 このシリーズの学習パス
+
+← 前: [[react-nextjs-05-hooks-dependencies]]
+→ 次: [[react-nextjs-07-custom-hooks]]
+
+**シリーズ全体**: [[_moc-react-nextjs-learning]]

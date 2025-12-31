@@ -71,3 +71,10 @@ const cat: { name: string } = {} as { name: string };
 ## 📌 関連する過去の学び
 
 ---
+
+## 🔗 このシリーズの学習パス
+
+← 前: [[typescript-01-setup-basics]]
+→ 次: [[typescript-03-primitive-types]]
+
+**シリーズ全体**: [[_moc-typescript-learning]]

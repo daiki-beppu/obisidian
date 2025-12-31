@@ -70,3 +70,10 @@ const gender: 'male' | 'female' = 'male';
 ## 📌 関連する過去の学び
 
 ---
+
+## 🔗 このシリーズの学習パス
+
+← 前: [[typescript-03-primitive-types]]
+→ 次: [[typescript-05-array-tuple-any]]
+
+**シリーズ全体**: [[_moc-typescript-learning]]

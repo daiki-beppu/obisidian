@@ -163,3 +163,12 @@ const never = (bar: "a" | 1) => {
 型をちゃんと学んで実装すればより堅牢なコードが書けるようになれる気がする
 
 ## 📚 参考リンク
+
+---
+
+## 🔗 このシリーズの学習パス
+
+← 前: [[typescript-04-literal-types]]
+→ 次: [[typescript-06-object-types]]
+
+**シリーズ全体**: [[_moc-typescript-learning]]

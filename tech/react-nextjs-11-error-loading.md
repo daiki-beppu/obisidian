@@ -98,3 +98,10 @@ export default Posts;
 ## 📌 関連する過去の学び
 
 ---
+
+## 🔗 このシリーズの学習パス
+
+← 前: [[react-nextjs-10-api-fetching]]
+→ 次: [[react-nextjs-12-usereducer]]
+
+**シリーズ全体**: [[_moc-react-nextjs-learning]]

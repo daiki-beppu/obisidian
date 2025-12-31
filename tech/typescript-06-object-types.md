@@ -73,3 +73,12 @@ Record は使ったことがないけどこんなのもあるだと知らない�
 こういったことを知るのはやっぱり楽しい
 
 ## 📚 参考リンク
+
+---
+
+## 🔗 このシリーズの学習パス
+
+← 前: [[typescript-05-array-tuple-any]]
+→ 次: [[typescript-07-intersection-types]]
+
+**シリーズ全体**: [[_moc-typescript-learning]]

@@ -56,3 +56,10 @@ export const fetcher = async (url) => {
 ## 📌 関連する過去の学び
 
 ---
+
+## 🔗 このシリーズの学習パス
+
+← 前: [[react-nextjs-16-swr-chaining]]
+→ 次: なし
+
+**シリーズ全体**: [[_moc-react-nextjs-learning]]

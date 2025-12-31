@@ -23,3 +23,12 @@ related: []
 ## 🔍 気づき・感想
 
 ## 📚 参考リンク
+
+---
+
+## 🔗 このシリーズの学習パス
+
+← 前: [[typescript-09-advanced-topics]]
+→ 次: なし
+
+**シリーズ全体**: [[_moc-typescript-learning]]

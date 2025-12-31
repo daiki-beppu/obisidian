@@ -82,3 +82,10 @@ React, Next.js が一段落して
 ## 📌 関連する過去の学び
 
 ---
+
+## 🔗 このシリーズの学習パス
+
+← 前: なし
+→ 次: [[typescript-02-type-annotation]]
+
+**シリーズ全体**: [[_moc-typescript-learning]]

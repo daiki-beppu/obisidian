@@ -129,3 +129,13 @@ type LiteralUnion = Zero | Greeting; // 0 または "hello" のみ OK
 これらはよく実務でも使用するのでいい復習になった
 
 ## 📚 参考リンク
+
+
+---
+
+## 🔗 このシリーズの学習パス
+
+← 前: [[typescript-06-object-types]]
+→ 次: [[typescript-08-alias-interface]]
+
+**シリーズ全体**: [[_moc-typescript-learning]]

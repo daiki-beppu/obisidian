@@ -198,3 +198,10 @@ useReducer の使いどころは難しいが知っていて損はない知識だ
 ## 📌 関連する過去の学び
 
 ---
+
+## 🔗 このシリーズの学習パス
+
+← 前: [[react-nextjs-11-error-loading]]
+→ 次: [[react-nextjs-13-swr]]
+
+**シリーズ全体**: [[_moc-react-nextjs-learning]]

@@ -23,3 +23,12 @@ related: []
 ## 🔍 気づき・感想
 
 ## 📚 参考リンク
+
+---
+
+## 🔗 このシリーズの学習パス
+
+← 前: [[typescript-08-alias-interface]]
+→ 次: [[typescript-10-practical-patterns]]
+
+**シリーズ全体**: [[_moc-typescript-learning]]

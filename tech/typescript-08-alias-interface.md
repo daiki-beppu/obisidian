@@ -115,3 +115,13 @@ const Foo4: IBar = {
 ## 🔍 気づき・感想
 
 ## 📚 参考リンク
+
+
+---
+
+## 🔗 このシリーズの学習パス
+
+← 前: [[typescript-07-intersection-types]]
+→ 次: [[typescript-09-advanced-topics]]
+
+**シリーズ全体**: [[_moc-typescript-learning]]
