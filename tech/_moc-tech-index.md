@@ -12,6 +12,12 @@ tags: [moc, index]
 ### メインシリーズ
 - [[_moc-react-nextjs-learning]] - React & Next.js 学習パス (17記事)
 - [[_moc-typescript-learning]] - TypeScript 学習パス (10記事)
+- [[_moc-javascript-learning]] - JavaScript 基礎学習 (16記事)
+- [[_moc-threejs-learning]] - Three.js 学習パス (34記事)
+
+### Web基礎
+- [[_moc-html-learning]] - HTML 学習ノート (2記事)
+- [[_moc-css-learning]] - CSS 学習ノート (3記事)
 
 ### サポートコンテンツ
 - [[_moc-devtools]] - 開発ツール・環境構築 (8記事)
@@ -35,8 +41,14 @@ GROUP BY series
 
 ## 🏷️ トピック別ビュー
 
+### Web基礎
+- [[_moc-html-learning]] - HTML
+- [[_moc-css-learning]] - CSS
+- [[_moc-javascript-learning]] - JavaScript
+
 ### フロントエンド
 - [[_moc-react-nextjs-learning]] - React/Next.js
+- [[_moc-threejs-learning]] - Three.js
 
 ### 言語
 - [[_moc-typescript-learning]] - TypeScript
