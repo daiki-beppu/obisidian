@@ -14,7 +14,7 @@ tags: [moc, react, nextjs, learning-path]
 - [x] **Phase 2: Hooks & State** (4-6) - 完了
 - [x] **Phase 3: 応用パターン** (7-9) - 完了
 - [x] **Phase 4: 非同期 & API** (10-13) - 完了
-- [ ] **Phase 5: 発展** (14-17) - 進行中
+- [x] **Phase 5: 発展** (14-17) - 進行中
 
 全体進捗: 13/17 (76%)
 
