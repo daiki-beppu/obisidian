@@ -114,4 +114,3 @@ null と undefined の使い分けについてはよくわかってなかった�
 ← 前: [[typescript-02-type-annotation]]
 → 次: [[typescript-04-literal-types]]
 
-**シリーズ全体**: [[_moc-typescript-learning]]

@@ -138,4 +138,3 @@ type LiteralUnion = Zero | Greeting; // 0 または "hello" のみ OK
 ← 前: [[typescript-06-object-types]]
 → 次: [[typescript-08-alias-interface]]
 
-**シリーズ全体**: [[_moc-typescript-learning]]

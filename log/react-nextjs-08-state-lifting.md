@@ -326,4 +326,3 @@ export default function Headline(props) {
 ← 前: [[react-nextjs-07-custom-hooks]]
 → 次: [[react-nextjs-09-usememo-router]]
 
-**シリーズ全体**: [[_moc-react-nextjs-learning]]

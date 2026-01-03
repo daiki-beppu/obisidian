@@ -199,4 +199,3 @@ export const useSetBgColor = () => {
 ← 前: [[react-nextjs-08-state-lifting]]
 → 次: [[react-nextjs-10-api-fetching]]
 
-**シリーズ全体**: [[_moc-react-nextjs-learning]]

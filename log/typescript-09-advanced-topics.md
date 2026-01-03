@@ -31,4 +31,3 @@ related: []
 ← 前: [[typescript-08-alias-interface]]
 → 次: [[typescript-10-practical-patterns]]
 
-**シリーズ全体**: [[_moc-typescript-learning]]

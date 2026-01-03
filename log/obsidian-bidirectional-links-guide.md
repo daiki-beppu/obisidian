@@ -74,7 +74,6 @@ Obsidianの双方向リンクは、ノート間を相互に参照できる機能
 ← 前: [[react-nextjs-04-lifecycle-state]]
 → 次: [[react-nextjs-06-immutability]]
 
-**シリーズ全体**: [[_moc-react-nextjs-learning]]
 ```
 
 **ポイント**:

@@ -266,4 +266,3 @@ export default function Main(props) {
 ← 前: [[react-nextjs-06-immutability]]
 → 次: [[react-nextjs-08-state-lifting]]
 
-**シリーズ全体**: [[_moc-react-nextjs-learning]]

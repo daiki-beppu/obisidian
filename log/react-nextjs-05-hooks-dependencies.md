@@ -200,4 +200,3 @@ export default function Main(props) {
 ← 前: [[react-nextjs-04-lifecycle-state]]
 → 次: [[react-nextjs-06-immutability]]
 
-**シリーズ全体**: [[_moc-react-nextjs-learning]]

@@ -76,4 +76,3 @@ const gender: 'male' | 'female' = 'male';
 ← 前: [[typescript-03-primitive-types]]
 → 次: [[typescript-05-array-tuple-any]]
 
-**シリーズ全体**: [[_moc-typescript-learning]]

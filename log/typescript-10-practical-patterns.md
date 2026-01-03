@@ -31,4 +31,3 @@ related: []
 ← 前: [[typescript-09-advanced-topics]]
 → 次: なし
 
-**シリーズ全体**: [[_moc-typescript-learning]]

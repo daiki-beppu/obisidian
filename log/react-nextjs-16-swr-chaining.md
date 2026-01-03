@@ -96,4 +96,3 @@ SWR で fetcher がないとデータが取得できなかったのを知らな�
 ← 前: [[react-nextjs-15-dynamic-routing]]
 → 次: [[react-nextjs-17-fetcher-module]]
 
-**シリーズ全体**: [[_moc-react-nextjs-learning]]

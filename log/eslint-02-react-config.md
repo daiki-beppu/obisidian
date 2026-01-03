@@ -286,4 +286,3 @@ export default [
 ← 前: [[eslint-01-flat-config-setup]]
 → 次: [[eslint-03-plugins-prettier]]
 
-**シリーズ全体**: [[_moc-devtools]]

@@ -171,4 +171,3 @@ const never = (bar: "a" | 1) => {
 ← 前: [[typescript-04-literal-types]]
 → 次: [[typescript-06-object-types]]
 
-**シリーズ全体**: [[_moc-typescript-learning]]

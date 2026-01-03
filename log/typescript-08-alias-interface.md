@@ -124,4 +124,3 @@ const Foo4: IBar = {
 ← 前: [[typescript-07-intersection-types]]
 → 次: [[typescript-09-advanced-topics]]
 
-**シリーズ全体**: [[_moc-typescript-learning]]

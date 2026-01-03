@@ -148,4 +148,3 @@ Link コンポーネントのメリット
 ← 前: [[react-nextjs-01-components-basics]]
 → 次: [[react-nextjs-03-css-modules]]
 
-**シリーズ全体**: [[_moc-react-nextjs-learning]]

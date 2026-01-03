@@ -50,4 +50,3 @@ pages の配下にディレクトリを作成することでネストしたル�
 ← 前: [[react-nextjs-13-swr]]
 → 次: [[react-nextjs-15-dynamic-routing]]
 
-**シリーズ全体**: [[_moc-react-nextjs-learning]]

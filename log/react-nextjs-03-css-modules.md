@@ -255,4 +255,3 @@ export default function Footer() {
 ← 前: [[react-nextjs-02-link-routing]]
 → 次: [[react-nextjs-04-lifecycle-state]]
 
-**シリーズ全体**: [[_moc-react-nextjs-learning]]

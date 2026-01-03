@@ -138,4 +138,3 @@ export default PostId;
 ← 前: [[react-nextjs-14-file-routing]]
 → 次: [[react-nextjs-16-swr-chaining]]
 
-**シリーズ全体**: [[_moc-react-nextjs-learning]]
