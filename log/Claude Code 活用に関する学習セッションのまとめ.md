@@ -1,8 +1,9 @@
-
-
+---
 title: Claude Code 活用に関する学習セッションのまとめ
 created: 2026-01-03
 updated: 2026-01-03
+
+---
 
 
 
