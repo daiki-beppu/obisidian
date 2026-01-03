@@ -1,6 +1,5 @@
 ---
 date: {{date}}
-tags: [daily]
 ---
 # {{date}}
 
