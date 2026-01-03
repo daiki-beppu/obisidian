@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 0917abf123ca58ec3e89dfbd698c6a56abbfb8e4 daiki-beppu <beppu.engineer@gmail.com> 1767098055 +0900	commit (initial): first commit
+0917abf123ca58ec3e89dfbd698c6a56abbfb8e4 0917abf123ca58ec3e89dfbd698c6a56abbfb8e4 daiki-beppu <beppu.engineer@gmail.com> 1767098062 +0900	Branch: renamed refs/heads/main to refs/heads/main
+0917abf123ca58ec3e89dfbd698c6a56abbfb8e4 2345a6d87b3a5a6b111741ff7424590fb2b22255 daiki-beppu <beppu.engineer@gmail.com> 1767112374 +0900	commit: デイリーノートの作成
+2345a6d87b3a5a6b111741ff7424590fb2b22255 ac19e5ae2ebb29dbf76114ad397f428636f8689d daiki-beppu <beppu.engineer@gmail.com> 1767163381 +0900	commit: TILから学習ノートを移行・整理
+ac19e5ae2ebb29dbf76114ad397f428636f8689d b22d98337783cb50c609ac91db09f4e8bca92d07 daiki-beppu <beppu.engineer@gmail.com> 1767163655 +0900	commit: Obsidian最適化: MOC作成とフロントマター統一
+b22d98337783cb50c609ac91db09f4e8bca92d07 43a6f3b0a29f4fd9f3682ac706ac474bf5fd99e9 daiki-beppu <beppu.engineer@gmail.com> 1767163862 +0900	commit: Obsidian最適化: ファイル名を説明的な名前に変更
+43a6f3b0a29f4fd9f3682ac706ac474bf5fd99e9 8b98bf5eeec024a5b4158e8eddc8fa00e097ed07 daiki-beppu <beppu.engineer@gmail.com> 1767164266 +0900	commit: Obsidian最適化: シリーズ内線形リンク追加
+8b98bf5eeec024a5b4158e8eddc8fa00e097ed07 e40a87553af03f454e7cbc6347511b3065e102e2 daiki-beppu <beppu.engineer@gmail.com> 1767164493 +0900	commit: Obsidian最適化: 横断リンクとMOC更新
+e40a87553af03f454e7cbc6347511b3065e102e2 6a1768c2caeb13b207dc53ff35e9f09d06ac63a4 daiki-beppu <beppu.engineer@gmail.com> 1767253668 +0900	commit: 学習ノート移行: frontend基礎知識をtechディレクトリに統合
+6a1768c2caeb13b207dc53ff35e9f09d06ac63a4 4bcee2bb3159e9049af913a05eb8e9f8ad79f809 daiki-beppu <beppu.engineer@gmail.com> 1767284454 +0900	commit: chore: 学習進捗更新とdailyノート追加
+4bcee2bb3159e9049af913a05eb8e9f8ad79f809 dbe6b9bf6a6c56917b98ea1a70b55d16152e90bc daiki-beppu <beppu.engineer@gmail.com> 1767432426 +0900	commit: vault backup: 2026-01-03 18:27:06
