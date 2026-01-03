@@ -1,3 +1,11 @@
+---
+title: semantic-html
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # セマンティック HTML について
 
 詳しくは[MDN HTML Semantics を参照](https://developer.mozilla.org/ja/docs/Glossary/Semantics)

@@ -1,3 +1,11 @@
+---
+title: threejs-11-shadow
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # 影について
 
 - [影について](#影について)

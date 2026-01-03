@@ -1,3 +1,11 @@
+---
+title: threejs-14-galaxy-generator
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # 銀河系の制作
 
 - [銀河系の制作](#銀河系の制作)

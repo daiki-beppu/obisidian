@@ -1,3 +1,11 @@
+---
+title: threejs-06-debug-ui
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # デバック UI
 
 - [デバック UI](#デバック-ui)

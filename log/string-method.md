@@ -1,3 +1,11 @@
+---
+title: string-method
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # String のメソッドについて
 
 詳しくは[MDN JavaScript String を参照](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String)

@@ -1,3 +1,11 @@
+---
+title: loop-processing-overview
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # ループ処理について
 
 ループ処理は同じことを反復して実行したいときに使う

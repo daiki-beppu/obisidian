@@ -1,3 +1,11 @@
+---
+title: threejs-16-physics
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # 物理演算について
 
 - [物理演算について](#物理演算について)

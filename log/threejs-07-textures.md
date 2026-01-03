@@ -1,3 +1,11 @@
+---
+title: threejs-07-textures
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # テクスチャについて
 
 - [テクスチャについて](#テクスチャについて)

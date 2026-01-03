@@ -1,3 +1,11 @@
+---
+title: threejs-15-scroll-based-animation
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # スクロールに基づいたアニメーション
 
 - [スクロールに基づいたアニメーション](#スクロールに基づいたアニメーション)

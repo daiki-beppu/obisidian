@@ -1,3 +1,11 @@
+---
+title: array-overview
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # 配列について
 
 ## 配列の作り方

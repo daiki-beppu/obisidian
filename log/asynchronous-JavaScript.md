@@ -1,3 +1,11 @@
+---
+title: asynchronous-JavaScript
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # 非同期な JavaScript
 
 非同期な JavaScript とは

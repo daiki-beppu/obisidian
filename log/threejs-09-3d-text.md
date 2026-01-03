@@ -1,3 +1,11 @@
+---
+title: threejs-09-3d-text
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # 3D テキストについて
 
 - [3D テキストについて](#3d-テキストについて)

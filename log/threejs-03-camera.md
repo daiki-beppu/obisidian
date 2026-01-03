@@ -1,3 +1,11 @@
+---
+title: threejs-03-camera
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # カメラについて
 
 - [カメラについて](#カメラについて)

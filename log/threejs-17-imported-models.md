@@ -1,3 +1,11 @@
+---
+title: threejs-17-imported-models
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # 3D モデルのインポート
 
 - [3D モデルのインポート](#3d-モデルのインポート)

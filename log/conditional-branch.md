@@ -1,3 +1,11 @@
+---
+title: conditional-branch
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # 条件分岐について
 
 条件分岐の方法

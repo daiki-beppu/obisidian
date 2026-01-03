@@ -1,3 +1,11 @@
+---
+title: threejs-01-transform-obfects
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # オブジェクトの変換
 
 - [オブジェクトの変換](#オブジェクトの変換)

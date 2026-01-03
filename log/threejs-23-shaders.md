@@ -1,3 +1,11 @@
+---
+title: threejs-23-shaders
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # シェーダー
 
 - [シェーダーについて](#シェーダーについて)

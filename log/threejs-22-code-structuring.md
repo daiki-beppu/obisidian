@@ -1,3 +1,11 @@
+---
+title: threejs-22-code-structuring
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # コードの構造化
 
 - [コードの構造化](#コードの構造化)

@@ -1,3 +1,11 @@
+---
+title: function-overview
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # 関数について
 
 関数とは自分で作るメソッドのこと

@@ -1,3 +1,11 @@
+---
+title: DOM-event-introduction
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # DOM イベント入門
 
 DOM イベントとはユーザーのアクションによって

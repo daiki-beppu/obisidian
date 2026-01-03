@@ -1,3 +1,11 @@
+---
+title: string-and-number-overview
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # JavaScript における文字列と数値について
 
 文字列 + 文字列で連結することができる

@@ -1,3 +1,11 @@
+---
+title: threejs-08-materials
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # マテリアルについて
 
 - [マテリアルについて](#マテリアルについて)

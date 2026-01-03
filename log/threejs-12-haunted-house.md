@@ -1,3 +1,11 @@
+---
+title: threejs-12-haunted-house
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # お化け屋敷の制作
 
 - [お化け屋敷の制作](#お化け屋敷の制作)

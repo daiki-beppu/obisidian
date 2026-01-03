@@ -1,3 +1,11 @@
+---
+title: destructuring-assignment
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # 分割代入について
 
 分割代入とは配列の値やオブジェクトのプロパティを

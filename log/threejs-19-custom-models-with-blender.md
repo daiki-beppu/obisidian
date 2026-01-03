@@ -1,3 +1,11 @@
+---
+title: threejs-19-custom-models-with-blender
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # blender でオリジナルのモデルを作成
 
 - [blender でオリジナルのモデルを作成](#blender-でオリジナルのモデルを作成)

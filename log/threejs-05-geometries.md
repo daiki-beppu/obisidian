@@ -1,3 +1,11 @@
+---
+title: threejs-05-geometries
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # ジオメトリについて
 
 - [ジオメトリについて](#ジオメトリについて)

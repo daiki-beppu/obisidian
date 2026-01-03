@@ -1,3 +1,11 @@
+---
+title: threejs-20-environment-map
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # 環境マップ
 
 - [環境マップ](#環境マップ)

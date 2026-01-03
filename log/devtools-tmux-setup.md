@@ -1,3 +1,11 @@
+---
+title: devtools-tmux-setup
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # tmux キーバインド一覧
 
 ## Prefix キーバインド

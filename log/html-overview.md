@@ -1,3 +1,11 @@
+---
+title: html-overview
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # HTML について
 
 詳しくは[MDN HTML を参照](https://developer.mozilla.org/ja/docs/Web/HTML)

@@ -1,3 +1,11 @@
+---
+title: threejs-04-fullscreen-and-resizing
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # フルスクリーンとサイズ変更
 
 - [フルスクリーンとサイズ変更](#フルスクリーンとサイズ変更)

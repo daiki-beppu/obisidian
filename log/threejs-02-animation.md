@@ -1,3 +1,11 @@
+---
+title: threejs-02-animation
+created: 2026-01-04
+updated: 2026-01-04
+---
+
+#log #output
+
 # アニメーションを付与する
 
 - [アニメーションを付与する](#アニメーションを付与する)
