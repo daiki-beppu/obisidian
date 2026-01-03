@@ -2,17 +2,9 @@
 title: react-with-nextjs-2
 created: 2025-01-05
 updated: 2025-01-05
-series: React & Next.js Learning Path
-sequence: 3
-topic: react
-subtopics: []
-tags: ['react', 'nextjs', 'beginner']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #react #nextjs #beginner
 
 ## 💡 学んだことの要約
 
@@ -142,9 +134,3 @@ Link コンポーネントのメリット
 - プリフェッチ(裏側であらかじめ先のページを習得しておく機能)
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[react-nextjs-01-components-basics]]
-→ 次: [[react-nextjs-03-css-modules]]
-

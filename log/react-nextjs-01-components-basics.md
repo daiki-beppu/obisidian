@@ -2,17 +2,9 @@
 title: react
 created: 2025-01-04
 updated: 2025-01-04
-series: React & Next.js Learning Path
-sequence: 1
-topic: react
-subtopics: []
-tags: ['react', 'nextjs', 'beginner']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #react #nextjs #beginner
 
 ## 💡 学んだことの要約
 
@@ -693,9 +685,3 @@ tailwind は一旦無効で良かったなと反省
 - [[devtools-prettier-setup]] - Prettierで自動フォーマット
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: なし
-→ 次: [[react-nextjs-02-link-routing]]
-

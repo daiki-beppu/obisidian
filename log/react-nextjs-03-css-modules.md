@@ -2,17 +2,9 @@
 title: react-with-nextjs-3
 created: 2025-01-06
 updated: 2025-01-06
-series: React & Next.js Learning Path
-sequence: 4
-topic: react
-subtopics: ['next.js']
-tags: ['react', 'nextjs', 'beginner']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #react #nextjs #beginner
 
 ## 💡 学んだことの要約
 
@@ -249,9 +241,3 @@ export default function Footer() {
 ## 📌 関連する過去の学び
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[react-nextjs-02-link-routing]]
-→ 次: [[react-nextjs-04-lifecycle-state]]
-

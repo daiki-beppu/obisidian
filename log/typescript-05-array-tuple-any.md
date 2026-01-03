@@ -2,17 +2,9 @@
 title: typescript-5
 created: 2025-04-15
 updated: 2025-04-15
-series: TypeScript Learning Path
-sequence: 5
-topic: typescript
-subtopics: []
-tags: ['beginner', 'typescript']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #beginner #typescript
 
 # TypeScript 入門
 
@@ -165,9 +157,3 @@ const never = (bar: "a" | 1) => {
 ## 📚 参考リンク
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[typescript-04-literal-types]]
-→ 次: [[typescript-06-object-types]]
-

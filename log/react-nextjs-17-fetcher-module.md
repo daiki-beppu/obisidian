@@ -2,15 +2,9 @@
 title: 01-react-with-nextjs-17
 created: 2025-01-21
 updated: 2025-01-21
-topic: 01
-subtopics: []
-tags: ['01']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #01
 
 ## 💡 学んだことの要約
 
@@ -56,9 +50,3 @@ export const fetcher = async (url) => {
 ## 📌 関連する過去の学び
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[react-nextjs-16-swr-chaining]]
-→ 次: なし
-

@@ -2,17 +2,9 @@
 title: eslint-flat-config-2
 created: 2025-01-03
 updated: 2025-01-03
-series: ESLint Configuration
-sequence: 2
-topic: 
-subtopics: []
-tags: ['devtools', 'eslint']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #devtools #eslint
 
 # eslint-flat-config-2
 
@@ -280,9 +272,3 @@ export default [
 ## 📌 関連する過去の学び
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[eslint-01-flat-config-setup]]
-→ 次: [[eslint-03-plugins-prettier]]
-

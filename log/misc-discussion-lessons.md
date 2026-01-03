@@ -2,15 +2,9 @@
 title: 01-lessons-from-discussion
 created: 2025-01-26
 updated: 2025-01-26
-topic: discussion
-subtopics: []
-tags: ['discussion']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #discussion
 
 ## 💡 学んだことの要約
 

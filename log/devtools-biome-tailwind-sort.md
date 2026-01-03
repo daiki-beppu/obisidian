@@ -2,15 +2,9 @@
 title: biome
 created: 2025-04-12
 updated: 2025-04-12
-topic: biome
-subtopics: []
-tags: ['biome']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #biome
 
 # VSCode で Biome 使って保存時にクラス名を自動で並び替え変える方法
 
@@ -108,5 +102,3 @@ ci から --unsafe を実行しないと修正できません
 公式ドキュメント: https://biomejs.dev/
 
 GitHub: https://github.com/biomejs/biome
-
-

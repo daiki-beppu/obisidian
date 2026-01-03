@@ -2,17 +2,9 @@
 title: react-with-nextjs-7
 created: 2025-01-10
 updated: 2025-01-10
-series: React & Next.js Learning Path
-sequence: 8
-topic: react
-subtopics: []
-tags: ['react', 'nextjs', 'beginner']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #react #nextjs #beginner
 
 ### 内容
 
@@ -260,9 +252,3 @@ export default function Main(props) {
 ## 📌 関連する過去の学び
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[react-nextjs-06-immutability]]
-→ 次: [[react-nextjs-08-state-lifting]]
-

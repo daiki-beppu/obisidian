@@ -2,17 +2,9 @@
 title: react-with-nextjs-12
 created: 2025-01-16
 updated: 2025-01-16
-series: React & Next.js Learning Path
-sequence: 13
-topic: react
-subtopics: []
-tags: ['react', 'nextjs', 'beginner']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #react #nextjs #beginner
 
 ### 内容
 
@@ -198,9 +190,3 @@ useReducer の使いどころは難しいが知っていて損はない知識だ
 ## 📌 関連する過去の学び
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[react-nextjs-11-error-loading]]
-→ 次: [[react-nextjs-13-swr]]
-

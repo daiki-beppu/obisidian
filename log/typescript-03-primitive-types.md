@@ -2,17 +2,9 @@
 title: typescript-3
 created: 2025-01-24
 updated: 2025-01-24
-series: TypeScript Learning Path
-sequence: 3
-topic: typescript
-subtopics: []
-tags: ['beginner', 'typescript']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #beginner #typescript
 
 ## 💡 学んだことの要約
 
@@ -108,9 +100,3 @@ null と undefined の使い分けについてはよくわかってなかった�
 ## 📌 関連する過去の学び
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[typescript-02-type-annotation]]
-→ 次: [[typescript-04-literal-types]]
-

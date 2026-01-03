@@ -2,17 +2,9 @@
 title: typescript-10
 created: 2025-05-02
 updated: 2025-05-02
-series: TypeScript Learning Path
-sequence: 10
-topic: typescript
-subtopics: []
-tags: ['beginner', 'typescript']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #beginner #typescript
 
 # 学ぶ内容
 
@@ -25,9 +17,3 @@ related: []
 ## 📚 参考リンク
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[typescript-09-advanced-topics]]
-→ 次: なし
-

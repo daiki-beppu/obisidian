@@ -2,15 +2,9 @@
 title: seminar-corporate-finance
 created: 2025-02-13
 updated: 2025-02-13
-topic: seminar
-subtopics: []
-tags: ['seminar']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #seminar
 
 ## 💡 学んだことの要約
 

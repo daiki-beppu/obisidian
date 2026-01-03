@@ -2,15 +2,9 @@
 title: eslint-flat-config
 created: 2025-01-02
 updated: 2025-01-02
-topic: eslint
-subtopics: []
-tags: ['eslint']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #eslint
 
 # `eslint`-flat-config
 
@@ -358,9 +352,3 @@ yarn dlx @yarnpkg/sdks vscode
 - [[devtools-biome-tailwind-sort]] - Biome（代替ツール）
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: なし
-→ 次: [[eslint-02-react-config]]
-

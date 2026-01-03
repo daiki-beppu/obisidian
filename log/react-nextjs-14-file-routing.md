@@ -2,17 +2,9 @@
 title: 01-react-with-nextjs-14
 created: 2025-01-18
 updated: 2025-01-18
-series: React & Next.js Learning Path
-sequence: 15
-topic: react
-subtopics: []
-tags: ['react', 'nextjs', 'beginner']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #react #nextjs #beginner
 
 ### 内容
 
@@ -44,9 +36,3 @@ pages の配下にディレクトリを作成することでネストしたル�
 ## 📌 関連する過去の学び
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[react-nextjs-13-swr]]
-→ 次: [[react-nextjs-15-dynamic-routing]]
-

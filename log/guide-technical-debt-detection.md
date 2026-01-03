@@ -2,15 +2,9 @@
 title: technical-debt-early-detection-guide
 created: 2025-02-12
 updated: 2025-02-12
-topic: Seminar
-subtopics: []
-tags: ['Seminar']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #Seminar
 
 ## 💡 学んだことの要約
 

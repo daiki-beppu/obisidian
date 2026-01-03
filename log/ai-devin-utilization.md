@@ -2,15 +2,9 @@
 title: devin-utilizing
 created: 2025-02-17
 updated: 2025-02-17
-topic: devin
-subtopics: []
-tags: ['devin']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #devin
 
 登壇者:
 

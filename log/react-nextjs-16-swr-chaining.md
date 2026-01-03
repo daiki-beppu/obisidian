@@ -2,17 +2,9 @@
 title: 01-react-with-nextjs-16
 created: 2025-01-20
 updated: 2025-01-20
-series: React & Next.js Learning Path
-sequence: 17
-topic: react
-subtopics: []
-tags: ['react', 'nextjs', 'beginner']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #react #nextjs #beginner
 
 ## 💡 学んだことの要約
 
@@ -90,9 +82,3 @@ SWR で fetcher がないとデータが取得できなかったのを知らな�
 ## 📌 関連する過去の学び
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[react-nextjs-15-dynamic-routing]]
-→ 次: [[react-nextjs-17-fetcher-module]]
-

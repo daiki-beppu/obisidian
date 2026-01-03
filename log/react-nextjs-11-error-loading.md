@@ -2,17 +2,9 @@
 title: react-with-nextjs-11
 created: 2025-01-15
 updated: 2025-01-15
-series: React & Next.js Learning Path
-sequence: 12
-topic: react
-subtopics: []
-tags: ['react', 'nextjs', 'beginner']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #react #nextjs #beginner
 
 ### 内容
 
@@ -98,9 +90,3 @@ export default Posts;
 ## 📌 関連する過去の学び
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[react-nextjs-10-api-fetching]]
-→ 次: [[react-nextjs-12-usereducer]]
-

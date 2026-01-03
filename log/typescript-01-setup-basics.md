@@ -2,17 +2,9 @@
 title: typescript-01
 created: 2025-01-22
 updated: 2025-01-22
-series: TypeScript Learning Path
-sequence: 1
-topic: typescript
-subtopics: []
-tags: ['beginner', 'typescript']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #beginner #typescript
 
 ## 💡 学んだことの要約
 
@@ -92,9 +84,3 @@ React, Next.js が一段落して
 - [[devtools-prettier-setup]] - TypeScriptのフォーマット
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: なし
-→ 次: [[typescript-02-type-annotation]]
-

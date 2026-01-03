@@ -2,17 +2,9 @@
 title: typescript-9
 created: 2025-04-30
 updated: 2025-04-30
-series: TypeScript Learning Path
-sequence: 9
-topic: typescript
-subtopics: []
-tags: ['beginner', 'typescript']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #beginner #typescript
 
 # 学ぶ内容
 
@@ -25,9 +17,3 @@ related: []
 ## 📚 参考リンク
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[typescript-08-alias-interface]]
-→ 次: [[typescript-10-practical-patterns]]
-

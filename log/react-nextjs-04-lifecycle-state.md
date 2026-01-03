@@ -2,17 +2,9 @@
 title: react-with-nextjs-4
 created: 2025-01-07
 updated: 2025-01-07
-series: React & Next.js Learning Path
-sequence: 5
-topic: react
-subtopics: ['next.js']
-tags: ['react', 'nextjs', 'beginner']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #react #nextjs #beginner
 
 ## 💡 学んだことの要約
 
@@ -142,9 +134,3 @@ React でよく出てくる `useEffect` ,`useState`の理解が深まった
 - [[typescript-02-type-annotation]] - 型アノテーションの基礎
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[react-nextjs-03-css-modules]]
-→ 次: [[react-nextjs-05-hooks-dependencies]]
-

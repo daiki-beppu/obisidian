@@ -2,17 +2,9 @@
 title: typescript-6
 created: 2025-04-27
 updated: 2025-04-27
-series: TypeScript Learning Path
-sequence: 7
-topic: typescript
-subtopics: []
-tags: ['beginner', 'typescript']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #beginner #typescript
 
 # TypeScript 入門 #7
 
@@ -132,9 +124,3 @@ type LiteralUnion = Zero | Greeting; // 0 または "hello" のみ OK
 
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[typescript-06-object-types]]
-→ 次: [[typescript-08-alias-interface]]
-

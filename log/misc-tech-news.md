@@ -2,15 +2,9 @@
 title: news-share
 created: 2025-01-14
 updated: 2025-01-14
-topic: news
-subtopics: []
-tags: ['news']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #news
 
 ## 💡 学んだことの要約
 

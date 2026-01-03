@@ -2,17 +2,9 @@
 title: react-with-nextjs-13
 created: 2025-01-17
 updated: 2025-01-17
-series: React & Next.js Learning Path
-sequence: 14
-topic: react
-subtopics: []
-tags: ['react', 'nextjs', 'beginner']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #react #nextjs #beginner
 
 ### 内容
 
@@ -191,9 +183,3 @@ export const usePosts = () => {
 ## 📌 関連する過去の学び
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[react-nextjs-12-usereducer]]
-→ 次: [[react-nextjs-14-file-routing]]
-

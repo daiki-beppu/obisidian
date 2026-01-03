@@ -2,17 +2,9 @@
 title: react-with-nextjs-8
 created: 2025-01-11
 updated: 2025-01-11
-series: React & Next.js Learning Path
-sequence: 9
-topic: react
-subtopics: []
-tags: ['react', 'nextjs', 'beginner']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #react #nextjs #beginner
 
 ### 内容
 
@@ -320,9 +312,3 @@ export default function Headline(props) {
 ## 📌 関連する過去の学び
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[react-nextjs-07-custom-hooks]]
-→ 次: [[react-nextjs-09-usememo-router]]
-

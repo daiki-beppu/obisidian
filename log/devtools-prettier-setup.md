@@ -2,15 +2,9 @@
 title: configuration-for-using-prettier
 created: 2025-01-01
 updated: 2025-01-01
-topic: prettier
-subtopics: []
-tags: ['prettier']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #prettier
 
 # configuration-for-using-prettier
 

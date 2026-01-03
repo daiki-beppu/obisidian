@@ -2,17 +2,9 @@
 title: typescript-4
 created: 2025-01-25
 updated: 2025-01-25
-series: TypeScript Learning Path
-sequence: 4
-topic: typescript
-subtopics: []
-tags: ['beginner', 'typescript']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #beginner #typescript
 
 ## 💡 学んだことの要約
 
@@ -70,9 +62,3 @@ const gender: 'male' | 'female' = 'male';
 ## 📌 関連する過去の学び
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[typescript-03-primitive-types]]
-→ 次: [[typescript-05-array-tuple-any]]
-

@@ -2,17 +2,9 @@
 title: typescript-6
 created: 2025-04-16
 updated: 2025-04-16
-series: TypeScript Learning Path
-sequence: 6
-topic: typescript
-subtopics: []
-tags: ['beginner', 'typescript']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #beginner #typescript
 
 # TypeScript 入門 #6
 
@@ -75,9 +67,3 @@ Record は使ったことがないけどこんなのもあるだと知らない�
 ## 📚 参考リンク
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[typescript-05-array-tuple-any]]
-→ 次: [[typescript-07-intersection-types]]
-

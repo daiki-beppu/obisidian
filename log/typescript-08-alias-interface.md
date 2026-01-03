@@ -2,17 +2,9 @@
 title: typescript-6
 created: 2025-04-16
 updated: 2025-04-16
-series: TypeScript Learning Path
-sequence: 8
-topic: typescript
-subtopics: []
-tags: ['beginner', 'typescript']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #beginner #typescript
 
 # TypeScript 入門 #8
 
@@ -118,9 +110,3 @@ const Foo4: IBar = {
 
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[typescript-07-intersection-types]]
-→ 次: [[typescript-09-advanced-topics]]
-

@@ -2,17 +2,9 @@
 title: react-with-nextjs-10
 created: 2025-01-13
 updated: 2025-01-13
-series: React & Next.js Learning Path
-sequence: 11
-topic: react
-subtopics: []
-tags: ['react', 'nextjs', 'beginner']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #react #nextjs #beginner
 
 ### 内容
 
@@ -71,9 +63,3 @@ export default Home;
 ## 📌 関連する過去の学び
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[react-nextjs-09-usememo-router]]
-→ 次: [[react-nextjs-11-error-loading]]
-

@@ -2,17 +2,9 @@
 title: react-with-nextjs-5
 created: 2025-01-08
 updated: 2025-01-08
-series: React & Next.js Learning Path
-sequence: 6
-topic: react
-subtopics: []
-tags: ['react', 'nextjs', 'beginner']
-status: completed
-difficulty: beginner
-prev: null
-next: null
-related: []
 ---
+
+#log #output #react #nextjs #beginner
 
 ## 💡 学んだことの要約
 
@@ -194,9 +186,3 @@ export default function Main(props) {
 ## 📌 関連する過去の学び
 
 ---
-
-## 🔗 このシリーズの学習パス
-
-← 前: [[react-nextjs-04-lifecycle-state]]
-→ 次: [[react-nextjs-06-immutability]]
-
