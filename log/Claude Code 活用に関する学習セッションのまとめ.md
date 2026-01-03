@@ -8,7 +8,7 @@ updated: 2026-01-03
 
 
 
-#log
+#log #output #ClaudeCode
 
 1. プロジェクト固有の設定管理
 
