@@ -675,6 +675,12 @@ tailwind は一旦無効で良かったなと反省
 
 ## 🔗 関連トピック
 
+**JavaScript基礎を復習**:
+- [[function-overview]] - Reactコンポーネントは関数
+- [[object-overview]] - propsはオブジェクト
+- [[destructuring-assignment]] - propsの分割代入
+- [[array-overview]] - mapでリスト描画
+
 **TypeScript との組み合わせ**:
 - [[typescript-01-setup-basics]] - TypeScript環境構築
 - [[typescript-05-array-tuple-any]] - Reactで使う型の基礎
@@ -683,5 +689,12 @@ tailwind は一旦無効で良かったなと反省
 **開発環境の整備**:
 - [[eslint-01-flat-config-setup]] - ESLintでコード品質向上
 - [[devtools-prettier-setup]] - Prettierで自動フォーマット
+
+**従来の手法との比較**:
+- [[DOM-introduction]] - 従来のDOM操作 vs 宣言的UI
+- [[DOM-event-introduction]] - イベント処理の違い
+
+**応用**:
+- [[threejs-53-react-and-react-three-fiber]] - Reactと3D（R3F）の融合
 
 ---

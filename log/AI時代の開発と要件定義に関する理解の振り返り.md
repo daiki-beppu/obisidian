@@ -4,7 +4,7 @@ created: 2026-01-04
 updated: 2026-01-04
 ---
 
-#log #output #AI #要件定義 
+#log #output #AI #ClaudeCode  #要件定義 
 
 
 | 回数    | 質問内容                                                 | あなたの回答                                                     |

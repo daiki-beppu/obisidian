@@ -88,4 +88,14 @@ yarn はあまり触ってこなかったので
 
 [Prettier の設定ファイルの作成](https://github.com/daiki-beppu/til/tree/main/2024/2024-12-29-prettier-configuration-file-creation)
 
+## 🔗 関連トピック
+
+**プロジェクトで使用**:
+- [[react-nextjs-01-components-basics]] - React/Next.jsプロジェクトで使う
+- [[typescript-01-setup-basics]] - TypeScriptプロジェクトで使う
+
+**関連ツール**:
+- [[eslint-01-flat-config-setup]] - ESLintと連携
+- [[devtools-biome-tailwind-sort]] - Biome（Prettier代替も含む）
+
 ---

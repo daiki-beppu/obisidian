@@ -75,6 +75,10 @@ React, Next.js が一段落して
 
 ## 🔗 関連トピック
 
+**次のステップ**:
+- [[typescript-02-type-annotation]] - 型アノテーションの基礎
+- [[typescript-03-primitive-types]] - プリミティブ型の理解
+
 **React での活用**:
 - [[react-nextjs-01-components-basics]] - ReactでTypeScriptを使う
 - [[react-nextjs-04-lifecycle-state]] - Hooksの型付け

@@ -128,4 +128,11 @@ export default function Main(props) {
 
 ## 📌 関連する過去の学び
 
+## 🔗 関連トピック
+
+**基礎知識**:
+- [[spread-syntax]] - スプレッド構文で破壊的メソッドを避ける
+- [[array-overview]] - 配列の破壊的メソッド
+- [[object-overview]] - オブジェクトのイミュータブルな更新
+
 ---

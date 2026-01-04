@@ -348,7 +348,9 @@ yarn dlx @yarnpkg/sdks vscode
 - [[typescript-01-setup-basics]] - TypeScriptプロジェクトで使う
 
 **関連ツール**:
-- [[devtools-prettier-setup]] - Prettierと連携
-- [[devtools-biome-tailwind-sort]] - Biome（代替ツール）
+- [[devtools-prettier-setup]] - Prettierと連携してフォーマット
+- [[devtools-biome-tailwind-sort]] - Biome（ESLint代替ツール）
+- [[eslint-02-react-config]] - React専用のESLint設定
+- [[eslint-03-plugins-prettier]] - プラグインとPrettierの連携設定
 
 ---

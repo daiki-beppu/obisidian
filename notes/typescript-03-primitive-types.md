@@ -99,4 +99,13 @@ null と undefined の使い分けについてはよくわかってなかった�
 
 ## 📌 関連する過去の学び
 
+## 🔗 関連トピック
+
+**基礎知識**:
+- [[typescript-02-type-annotation]] - 型アノテーションの基礎
+- [[variable-overview]] - 変数とプリミティブ型
+
+**実践で使う**:
+- [[react-nextjs-04-lifecycle-state]] - propsとstateの型付け
+
 ---

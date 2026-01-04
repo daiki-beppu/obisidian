@@ -66,4 +66,14 @@ Record は使ったことがないけどこんなのもあるだと知らない�
 
 ## 📚 参考リンク
 
+## 🔗 関連トピック
+
+**基礎知識**:
+- [[object-overview]] - JavaScriptのオブジェクト
+- [[destructuring-assignment]] - 分割代入での型付け
+
+**実践で使う**:
+- [[react-nextjs-01-components-basics]] - propsの型定義
+- [[typescript-08-alias-interface]] - Type AliasとInterface
+
 ---

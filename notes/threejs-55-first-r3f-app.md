@@ -1036,3 +1036,20 @@ root.render(
   </Canvas>
 );
 ```
+
+## 🔗 関連トピック
+
+**R3F の基礎**:
+- [[threejs-53-react-and-react-three-fiber]] - ReactとR3Fの概念
+
+**React の基礎**:
+- [[react-nextjs-01-components-basics]] - Reactコンポーネント
+- [[react-nextjs-04-lifecycle-state]] - useStateとuseEffect
+- [[react-nextjs-05-hooks-dependencies]] - useEffectの依存配列
+- [[react-nextjs-09-usememo-router]] - useMemoで最適化
+
+**次のステップ**:
+- [[threejs-56-drei]] - R3Fのヘルパーライブラリ
+- [[threejs-57-debug]] - R3Fのデバッグツール
+
+---

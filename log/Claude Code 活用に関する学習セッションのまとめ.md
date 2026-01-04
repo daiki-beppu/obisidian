@@ -4,8 +4,6 @@ created: 2026-01-03
 updated: 2026-01-03
 ---
 
-#log #output 
-
 #log #output #ClaudeCode
 
 1. プロジェクト固有の設定管理

@@ -156,4 +156,14 @@ const never = (bar: "a" | 1) => {
 
 ## 📚 参考リンク
 
+## 🔗 関連トピック
+
+**基礎知識**:
+- [[array-overview]] - JavaScriptの配列
+- [[typescript-03-primitive-types]] - プリミティブ型の基礎
+
+**実践で使う**:
+- [[react-nextjs-01-components-basics]] - Reactでの配列の型付け
+- [[react-nextjs-04-lifecycle-state]] - useStateでの配列の型
+
 ---

@@ -62,4 +62,16 @@ const cat: { name: string } = {} as { name: string };
 
 ## 📌 関連する過去の学び
 
+## 🔗 関連トピック
+
+**基礎を振り返る**:
+- [[typescript-01-setup-basics]] - TypeScript環境構築
+
+**次のステップ**:
+- [[typescript-03-primitive-types]] - プリミティブ型の理解
+
+**実践で使う**:
+- [[variable-overview]] - 変数に型を付ける
+- [[react-nextjs-04-lifecycle-state]] - Reactでの型付け
+
 ---

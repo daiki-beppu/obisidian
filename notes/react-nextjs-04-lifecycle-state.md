@@ -129,8 +129,16 @@ React でよく出てくる `useEffect` ,`useState`の理解が深まった
 
 ## 🔗 関連トピック
 
+**基礎を振り返る**:
+- [[variable-overview]] - stateとしての変数管理
+- [[react-nextjs-01-components-basics]] - Reactコンポーネントの基礎
+
+**次のステップ**:
+- [[react-nextjs-05-hooks-dependencies]] - Hooks依存配列の理解
+- [[react-nextjs-12-usereducer]] - useReducerで複雑な状態管理
+
 **TypeScript での型付け**:
 - [[typescript-05-array-tuple-any]] - useState/useEffectで使う型
-- [[typescript-02-type-annotation]] - 型アノテーションの基礎
+- [[typescript-03-primitive-types]] - propsの型付け
 
 ---

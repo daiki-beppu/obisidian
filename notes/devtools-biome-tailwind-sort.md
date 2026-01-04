@@ -102,3 +102,14 @@ ci から --unsafe を実行しないと修正できません
 公式ドキュメント: https://biomejs.dev/
 
 GitHub: https://github.com/biomejs/biome
+
+## 🔗 関連トピック
+
+**代替対象のツール**:
+- [[eslint-01-flat-config-setup]] - BiomeはESLintの代替
+- [[devtools-prettier-setup]] - BiomeはPrettierの代替も含む
+
+**プロジェクトで使用**:
+- [[react-nextjs-03-css-modules]] - Tailwind CSSのクラスソート
+
+---

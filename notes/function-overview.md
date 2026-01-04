@@ -315,3 +315,18 @@ const late3second = greet.setTimeout(() => {
 }, 5000);
 
 ```
+
+## 🔗 関連トピック
+
+**基礎知識**:
+- [[variable-overview]] - 変数と関数の組み合わせ
+- [[array-overview]] - map/filterなど配列メソッドでのコールバック関数
+
+**非同期処理**:
+- [[asynchronous-JavaScript]] - コールバック関数、Promise、async/await
+
+**実践で使う**:
+- [[react-nextjs-01-components-basics]] - Reactコンポーネントは関数
+- [[react-nextjs-05-hooks-dependencies]] - Hooksとコールバック関数
+
+---

@@ -105,3 +105,15 @@ console.log(introduction(myCat));
 // 私の愛猫はももちゃんという名前で茶トラです。そしてvery cuteです
 
 ```
+
+## 🔗 関連トピック
+
+**基礎知識**:
+- [[array-overview]] - 配列の分割代入
+- [[object-overview]] - オブジェクトの分割代入
+
+**実践で使う**:
+- [[react-nextjs-01-components-basics]] - propsの分割代入
+- [[typescript-06-object-types]] - 型付きの分割代入
+
+---

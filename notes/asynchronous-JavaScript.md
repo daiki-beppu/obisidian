@@ -298,3 +298,18 @@ const makeRequest = async () => {
 makeRequest();
 
 ```
+
+## 🔗 関連トピック
+
+**基礎知識**:
+- [[function-overview]] - コールバック関数とPromiseの理解
+
+**実践で使う**:
+- [[react-nextjs-10-api-fetching]] - ReactでのAPI取得
+- [[react-nextjs-13-swr]] - SWRで非同期処理を簡潔に
+- [[react-nextjs-05-hooks-dependencies]] - useEffectでの非同期処理
+
+**その他の応用**:
+- [[threejs-17-imported-models]] - Three.jsでのモデル読み込み
+
+---

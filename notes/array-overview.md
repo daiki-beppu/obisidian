@@ -138,3 +138,20 @@ array.splice(2, 4);
 //[ 3, 'one', 'two' ]
 
 ```
+
+## 🔗 関連トピック
+
+**基礎知識**:
+- [[variable-overview]] - 配列も変数で扱う
+- [[function-overview]] - map/filterなど配列メソッドでのコールバック関数
+- [[object-overview]] - 配列にオブジェクトを格納
+
+**モダン構文**:
+- [[destructuring-assignment]] - 配列の分割代入
+- [[spread-syntax]] - 配列の展開とコピー
+
+**実践で使う**:
+- [[react-nextjs-01-components-basics]] - mapでリスト描画
+- [[typescript-05-array-tuple-any]] - 配列の型付け
+
+---

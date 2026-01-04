@@ -182,4 +182,14 @@ export const usePosts = () => {
 
 ## 📌 関連する過去の学び
 
+## 🔗 関連トピック
+
+**基礎知識**:
+- [[asynchronous-JavaScript]] - 非同期処理の基礎
+- [[react-nextjs-10-api-fetching]] - ReactでのAPI取得
+
+**関連する概念**:
+- [[react-nextjs-12-usereducer]] - useReducerからSWRへの移行
+- [[react-nextjs-07-custom-hooks]] - カスタムフックでロジック分離
+
 ---
