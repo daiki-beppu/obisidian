@@ -72,3 +72,20 @@ const maxSkills = 5
 const message = skills.length > maxSkills ? "エラー" : "ok";
 
 ```
+
+## 🔗 関連トピック
+
+**基礎知識**:
+- [[function-overview]] - 変数は関数内で活用する
+- [[array-overview]] - 配列も変数で扱う
+- [[object-overview]] - オブジェクトも変数で扱う
+
+**型付けして使う**:
+- [[typescript-03-primitive-types]] - TypeScriptで変数に型を付ける
+- [[typescript-02-type-annotation]] - 型アノテーションの基礎
+
+**実践で使う**:
+- [[react-nextjs-01-components-basics]] - Reactコンポーネントでの変数
+- [[react-nextjs-04-lifecycle-state]] - stateとしての変数管理
+
+---
