@@ -8,6 +8,8 @@ updated: 2026-01-04
 
 # お化け屋敷の制作
 
+これまで学んだ [[threejs-01-transform-obfects]] のグループ化、[[threejs-05-geometries]] のジオメトリ作成、[[threejs-07-textures]] のテクスチャ適用、[[threejs-08-materials]] のマテリアル設定、[[threejs-10-lights]] のライティング、[[threejs-11-shadow]] の影の実装を組み合わせた実践的なプロジェクトです。
+
 - [お化け屋敷の制作](#お化け屋敷の制作)
   - [タイマーの設定](#タイマーの設定)
   - [単位をあらかじめ定める](#単位をあらかじめ定める)
@@ -923,3 +925,5 @@ scene.fog = new THREE.FogExp2(
 - [TinyPNG](https://tinypng.com/)
 
 こちらのサイトもオススメ
+
+このプロジェクトの経験を活かして、[[threejs-13-particles]] でパーティクルシステムを学んだり、[[threejs-14-galaxy-generator]] で銀河生成などのより高度なプロジェクトに挑戦することができます。

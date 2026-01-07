@@ -8,6 +8,8 @@ updated: 2026-01-04
 
 # ジオメトリについて
 
+[[threejs-01-transform-obfects]] で学んだ基本的な立方体から、さらに複雑で自由な形状を作成できるようになります。
+
 - [ジオメトリについて](#ジオメトリについて)
   - [ジオメトリとは](#ジオメトリとは)
   - [Three.js で用意されているジオメトリ](#threejs-で用意されているジオメトリ)
@@ -186,3 +188,5 @@ for (let i = 0; i < count * 3 * 3; i++) {
 const positionsAttribute = new THREE.BufferAttribute(positionsArray, 3);
 geometry.setAttribute("position", positionsAttribute);
 ```
+
+ジオメトリの作成ができたら、[[threejs-06-debug-ui]] でデバッグUIを使ってパラメータをリアルタイムに調整する方法や、[[threejs-07-textures]] でテクスチャを適用する方法を学ぶことで、より効率的に開発を進めることができます。

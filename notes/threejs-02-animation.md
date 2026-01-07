@@ -16,9 +16,9 @@ updated: 2026-01-04
   - [ライブラリを使ったアニメーション](#ライブラリを使ったアニメーション)
 
 
-アニメーションを付与するには
-`requestAnimationFrame`を関数内で実行する必要がある
-引数には関数を渡す必要がある
+[[threejs-01-transform-obfects]] で学んだオブジェクトの位置、回転、スケールの変換に動きを加えることで、より動的なシーンを作ることができます。
+
+アニメーションを付与するには `requestAnimationFrame` を関数内で実行する必要がある。引数には関数を渡す必要がある
 
 ```js
 const animation = () => {
@@ -118,7 +118,7 @@ tick();
 
 ## オブジェクト以外にもアニメーションは付与できる
 
-カメラの位置をアニメーションで動かす
+カメラの位置をアニメーションで動かすこともできます。このカメラの制御については [[threejs-03-camera]] でより詳しく学ぶことができます
 
 ```js
 const tick = () => {
@@ -162,3 +162,5 @@ tick();
 ```
 
 [![Image from Gyazo](https://i.gyazo.com/cd7ed1b09d52a6ae9d285c25c3c0a780.gif)](https://gyazo.com/cd7ed1b09d52a6ae9d285c25c3c0a780)
+
+アニメーションの基礎を理解したら、[[threejs-15-scroll-based-animation]] でスクロールベースのアニメーションや、[[threejs-26-animaded-galaxy]] のような複雑なアニメーションプロジェクトに挑戦することで、より高度な表現が可能になります

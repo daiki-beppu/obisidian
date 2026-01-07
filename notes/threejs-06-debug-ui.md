@@ -8,6 +8,8 @@ updated: 2026-01-04
 
 # デバック UI
 
+[[threejs-05-geometries]] や [[threejs-08-materials]] で作成したオブジェクトやマテリアルのパラメータを、コードを書き直すことなくリアルタイムに調整できるデバッグUIを追加します。
+
 - [デバック UI](#デバック-ui)
   - [lil-gui のインスタンス化](#lil-gui-のインスタンス化)
   - [いろんな種類の調整](#いろんな種類の調整)
@@ -199,3 +201,5 @@ window.addEventListener("keydown", (event) => {
   if (event.key === "h") gui.show(gui._hidden);
 });
 ```
+
+デバッグUIを活用できるようになったら、[[threejs-07-textures]] でテクスチャを適用したり、[[threejs-08-materials]] でマテリアルの設定を詳しく学ぶことで、より表現力豊かなシーンを作成できます。

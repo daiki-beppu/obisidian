@@ -8,6 +8,8 @@ updated: 2026-01-04
 
 # カメラについて
 
+[[threejs-02-animation]] で学んだアニメーションでカメラを動かすこともできますが、ここではカメラの種類や制御方法について詳しく学んでいきます。
+
 - [カメラについて](#カメラについて)
   - [カメラの種類](#カメラの種類)
   - [PerspectiveCamera(パースペクティブカメラ)](#perspectivecameraパースペクティブカメラ)
@@ -177,4 +179,4 @@ const controls = new OrbitControls(camera, canvas);
 
 [![Image from Gyazo](https://i.gyazo.com/40ff6defc1d1e9b84510183999cd969e.gif)](https://gyazo.com/40ff6defc1d1e9b84510183999cd969e)
 
-これだけでマウスでカメラを制御することができます！
+これだけでマウスでカメラを制御することができます！カメラの基礎を理解したら、[[threejs-04-fullscreen-and-resizing]] でフルスクリーンやリサイズ対応を学ぶことで、よりユーザーフレンドリーなシーンを作成できます。

@@ -8,6 +8,8 @@ updated: 2026-01-04
 
 # 影について
 
+[[threejs-10-lights]] で学んだライティングに影を追加することで、オブジェクトの立体感や空間の奥行きをより強調できます。
+
 - [影について](#影について)
   - [影の表示](#影の表示)
     - [ライトを設定する](#ライトを設定する)
@@ -271,3 +273,5 @@ tick();
 ```
 
 [![Image from Gyazo](https://i.gyazo.com/04cfb515f2c0100c21e05b146b06918e.gif)](https://gyazo.com/04cfb515f2c0100c21e05b146b06918e)
+
+影の実装ができたら、[[threejs-12-haunted-house]] のような実践的なプロジェクトで、これまで学んだ [[threejs-05-geometries]]、[[threejs-07-textures]]、[[threejs-08-materials]]、[[threejs-10-lights]]、影の技術をすべて組み合わせることで、完成度の高いシーンを作成できます。

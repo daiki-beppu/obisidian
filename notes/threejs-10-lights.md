@@ -8,6 +8,8 @@ updated: 2026-01-04
 
 # ライトについて
 
+[[threejs-08-materials]] で学んだMeshStandardMaterialやMeshPhongMaterialなどのマテリアルは、ライトがないと真っ黒に表示されます。ここではさまざまなライトの種類と使い方を学びます。
+
 - [ライトについて](#ライトについて)
   - [ライトの種類](#ライトの種類)
     - [AmbientLight](#ambientlight)
@@ -355,3 +357,5 @@ scene.add(rectAreaLightHelper);
 ```
 
 [![Image from Gyazo](https://i.gyazo.com/bd7ecfb788e1c6a51c54c9ee5c3e049f.png)](https://gyazo.com/bd7ecfb788e1c6a51c54c9ee5c3e049f)
+
+ライティングの基礎を理解したら、[[threejs-11-shadow]] で影の追加方法を学ぶことで、よりリアルなシーンを作成できます。また、[[threejs-06-debug-ui]] のデバッグUIを使うことで、ライトのパラメータを効率的に調整できます。

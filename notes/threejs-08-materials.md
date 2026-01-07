@@ -8,6 +8,8 @@ updated: 2026-01-04
 
 # マテリアルについて
 
+[[threejs-07-textures]] で学んだテクスチャと組み合わせることで、さまざまな質感を表現できるマテリアルについて学びます。
+
 - [マテリアルについて](#マテリアルについて)
   - [マテリアルとは](#マテリアルとは)
   - [MeshBasicMaterial](#meshbasicmaterial)
@@ -621,6 +623,4 @@ material.thickness = 0.5; // デフォルトは 0
 
 屈折率は表現する物質によって異なります。詳しくは[こちらを参照](https://en.wikipedia.org/wiki/List_of_refractive_indices)
 
-```
-
-```
+マテリアルの基礎を理解したら、[[threejs-09-3d-text]] で3Dテキストを作成したり、[[threejs-10-lights]] でライティングを追加することで、より表現力豊かなシーンを作成できます。また、[[threejs-06-debug-ui]] のデバッグUIを使うことで、マテリアルのパラメータを効率的に調整できます。
