@@ -3,6 +3,7 @@ title: Claude Code & プログラミング基礎
 created: 2026-01-08
 updated: 2026-01-08
 ---
+#lgo
 
 #ClaudeCode #コンピュータサイエンス #CS50 
 **質問1：Claude CodeのChrome連携機能によって、ターミナルから直接行えるようになる主な作業は何ですか？**

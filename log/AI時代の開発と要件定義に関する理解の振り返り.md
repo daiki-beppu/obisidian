@@ -4,7 +4,8 @@ created: 2026-01-04
 updated: 2026-01-04
 ---
 
-#log #output #AI #ClaudeCode  #要件定義 
+#log 
+#AI #ClaudeCode  #要件定義 
 
 このドキュメントは [[2026-01-03T221944+0900_データ_2025年、AI時代の要件定義について考える|AI時代の要件定義]] および [[2026-01-03T220846+0900_データ_Claude Code Best Practices|Claude Code Best Practices]] を踏まえた学習セッションの記録です。
 

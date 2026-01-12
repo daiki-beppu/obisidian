@@ -3,4 +3,6 @@ title: {{title}}
 created: {{date}}
 updated: {{date}}
 ---
+#log 
+
 

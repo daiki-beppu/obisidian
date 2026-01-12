@@ -3,8 +3,9 @@ title: Claude Code 活用に関する学習セッションのまとめ
 created: 2026-01-03
 updated: 2026-01-03
 ---
+#log 
 
-#log #output #ClaudeCode
+#mcp #ClaudeCode #AI 
 
 このドキュメントは [[2026-01-03T220846+0900_データ_Claude Code Best Practices|Claude Code Best Practices]] の学習セッションで得た理解をまとめたものです。
 

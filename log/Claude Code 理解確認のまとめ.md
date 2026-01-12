@@ -3,7 +3,9 @@ title: Claude Code 理解確認のまとめ
 created: 2026-01-05
 updated: 2026-01-05
 ---
+#log 
 
+#Claude活用 #ClaudeCode #AI 
 このドキュメントは [[2026-01-03T220846+0900_データ_Claude Code Best Practices|Claude Code Best Practices]] および DeepLearning.AI のコース資料（[[2026-01-04T154928+0900_データ_Claude Code A Highly Agentic Coding Assistant - DeepLearning.AI|並行開発]]、[[2026-01-04T155446+0900_データ_Claude Code A Highly Agentic Coding Assistant - DeepLearning.AI|GitHub連携]]、[[2026-01-04T160154+0900_データ_Claude Code A Highly Agentic Coding Assistant - DeepLearning.AI|コマンド一覧]]）の理解確認セッションです。
 
 **第1回：プロジェクトメモリの基本**
